@@ -6,7 +6,7 @@ This repository is part of the [Tutorial](https://github.com/j3soon/tutorial) co
 
 ## Contributors
 
-Please refer to the [contributor list](https://github.com/j3soon/research-tutorial/graphs/contributors).
+Mainly contributed by [Johnson Sun](https://github.com/j3soon), [Chen-Hao Chao](https://github.com/chen-hao-chao), and [others](https://github.com/j3soon/research-tutorial/graphs/contributors).
 
 ## License
 
