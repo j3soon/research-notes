@@ -31,6 +31,18 @@ Here are some examples using this template: [DLSM](https://chen-hao-chao.github.
 
 Setup [Google Search Console](https://search.google.com/search-console) for your project page by following the instructions in the [Google Search Console documentation](https://developers.google.com/search/docs/monitor-debug/search-console-start) or from the [help center](https://support.google.com/webmasters/answer/9128668). This allows you to tell Google to index your project page and view the Google search performance of your project page.
 
+1. Submit website for indexing at [Google Search Console](https://search.google.com/search-console/about) and sign in with your Google account.
+2. Click `Add a property` and enter the URL of your GitHub project page. For example, if your repository is located at `github.com/<username>/<repo>`, enter `github.com/<username>/<repo>` as the URL.
+   ![](project-page/google-search-console-add-property.png)
+3. Follow the verification steps (i.e., add a header to your project page and push the commit to your GitHub again) to prove that you own the repository.
+4. Once your ownership is verified, click on `URL Inspection` in the top bar.
+5. Type in the URL of your GitHub repository and click `Enter`.
+6. Click on `Request indexing` to tell Google to index your repository.
+   ![](project-page/google-search-console-request-indexing.png)
+7. Wait for Google to index your repository. This can take several days.
+
+**Reference:** <https://github.com/orgs/community/discussions/42375#discussioncomment-5296219>
+
 ### Google Analytics
 
 Setup [Google Analytics](https://analytics.google.com) for your project page by following the instructions in the [Google Analytics documentation](https://support.google.com/analytics/answer/1008015). This allows you to track the number of visitors to your project page.
