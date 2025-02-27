@@ -1,8 +1,11 @@
 # Research Notes
 
-Some notes on conducting Computer Science research.
+Table of Contents:
 
-This repository is part of the [Tutorial](https://github.com/j3soon/tutorial) collection and is hosted on the [Tutorial Website](https://tutorial.j3soon.com/research/).
+- [Poster](./poster.md)
+- [Project Page](./project-page.md)
+
+> This repository is part of the [Tutorial](https://github.com/j3soon/tutorial) collection and is hosted on the [Tutorial Website](https://tutorial.j3soon.com/research/). The page source can be found at [j3soon/research-notes](https://github.com/j3soon/research-notes).
 
 ## Contributors
 
